@@ -12,7 +12,7 @@
 
 #include <iostream>
 #define _USE_MATH_DEFINES
-#include <Math.h>
+//#include <Math.h>
 #include <cmath>
 using namespace std;
 
